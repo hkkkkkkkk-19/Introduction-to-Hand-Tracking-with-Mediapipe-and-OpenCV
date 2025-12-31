@@ -15,10 +15,7 @@ However,to delve deeper into computer vision and take on more projects on CV, I 
 - OpenCV library
 ## How to Run
 1. Clone this repository.
-2. Install the required dependencies using
-```bash
-pip install -r https://raw.githubusercontent.com/hkkkkkkkk-19/Intro-to-Hand-Tracking-with-OpenCV/main/requirements.txt
-```
+2. Install the required dependencies using pip install -r requirements.txt
 ## Key Features
 - Camera Initialization: Sets up the camera and captures frames.
 - Frame Reversal: Frames are reversed for a correct mirror effect.
