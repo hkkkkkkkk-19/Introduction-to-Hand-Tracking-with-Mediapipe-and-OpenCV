@@ -5,9 +5,10 @@ Objective: Build a clear understanding of hand tracking.
 Tools Used: MediaPipe for hand detection.
 Approach: Simple implementation to understand the structure of landmarks and camera setup.
 ## Requirements
-- Python 3.11 (Turns out MediaPipe and OpenCV libraries are only supported on Python 3.9 to 3.12. Initially, I had Python 3.13 on my VS Code, but I quickly learned that this version wasn’t quite compatible. To temporarily run the code, I used the command to specifically execute it with Python 3.11, rather than the higher version present in my environment.
-
-python3.11 your_script.py
+- **Python 3.11** (Turns out MediaPipe and OpenCV libraries are only supported on **Python 3.9 to 3.12**. Initially, I had Python 3.13 on my VS Code, but I quickly learned that this version wasn’t quite compatible. To temporarily run the code, I used the command to specifically execute it with Python 3.11, rather than the higher version present in my environment.
+```bash
+py -3.11 .qodo\main.py
+```
 
 (If you have multiple Python versions installed, this command ensures that you’re explicitly using Python 3.11. This is especially helpful if your default python or python3 points to a different version.)
 However,to delve deeper into computer vision and take on more projects on CV, I decided to adjust my VS Code environment variables to permanently run using Python 3.11. So, yeah, that was a significant learning checkpoint, and it’s definitely something to keep in mind!
