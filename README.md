@@ -9,8 +9,8 @@ Approach: Simple implementation to understand the structure of landmarks and cam
 - MediaPipe library
 - OpenCV library
 ## How to Run
-1.Clone this repository.
-2.Install the required dependencies using pip install -r requirements.txt.
+1. Clone this repository.
+2. Install the required dependencies using pip install -r requirements.txt.
 ## Key Features
 - Camera Initialization: Sets up the camera and captures frames.
 - Frame Reversal: Frames are reversed for a correct mirror effect.
